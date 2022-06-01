@@ -13,7 +13,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerMohaimin)  
 
 ![Profile views](https://gpvc.arturio.dev/ProgrammerMohaimin)  
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 
 
