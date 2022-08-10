@@ -1,16 +1,17 @@
-<h3 align="center">I am passionate Frontend Developer from Bangladesh</h3>
-<img>https://www.facebook.com/photo/?fbid=122254230550664&set=a.106700888772665</img>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/programmermohaimin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="programmermohaimin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/programmermohaimin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="programmermohaimin" height="30" width="40" /></a>
-<a href="https://fb.com/programmermohaimin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="programmermohaimin" height="30" width="40" /></a>
-<a href="https://instagram.com/programmermohaimin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmermohaimin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/programmermohaimin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programmermohaimin" height="30" width="40" /></a>
-</p>
+### Hi there 👋, I am  Mohaimin Islam
+![](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/298795020_122254227217331_6572026511747528303_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=P8G7byoTMiEAX8pUDZV&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT8Fq86hD-N8NX7iYH7xKmmO8Zncc59lMegsyCm5rWbbSg&oe=62F8FD6E)
+
+I am Currently focusing Frontend Development...
+
+- 🔭 I’m currently working on this page. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ProgrammerMohaimin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ProgrammerMohaimin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ProgrammerMohaiminID)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ProgrammerMohaimin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/ProgrammerMohaimin)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmermohaimin&show_icons=true&locale=en&layout=compact" alt="programmermohaimin" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerMohaimin)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmermohaimin&show_icons=true&locale=en" alt="programmermohaimin" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerMohaimin&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ProgrammerMohaimin)  
+
+![Profile views](https://gpvc.arturio.dev/ProgrammerMohaimin)  
