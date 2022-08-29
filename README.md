@@ -1,5 +1,4 @@
 # Hi there 👋, I am  Mohaimin Islam JavaScript Lover😍 💻💻💻
-<img>https://weblearnbd.net/wp/epora/wp-content/uploads/2022/08/contact-sub-bg-01.png </img>
 
 ## I am Currently focusing Frontend Development...
 
