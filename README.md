@@ -10,7 +10,7 @@ I am experienced on these:
 * Bootstrap
 * SASS
 * Next Js
-* Git / Github
+
 
 - 🌱 I’m currently learning Frontend Development 
 
