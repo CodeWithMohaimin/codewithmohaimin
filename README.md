@@ -21,6 +21,6 @@ I am experienced on these:
 
 ![GitHub metrics](https://metrics.lecoq.io/ProgrammerMohaimin)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerMohaimin)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerMohaimin)
 
 ![Profile views](https://gpvc.arturio.dev/ProgrammerMohaimin)  
