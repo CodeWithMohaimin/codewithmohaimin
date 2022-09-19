@@ -10,6 +10,8 @@ I am experienced on these:
 * Bootstrap
 * SASS
 * Next Js
+* Node Js
+* MongoDB
 
 
 - 🌱 I’m currently learning Frontend Development 
