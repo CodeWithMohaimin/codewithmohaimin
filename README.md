@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mohaimin Islam
 #### </>
-![</>](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/305577236_130115209764566_2538275711489385843_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=atI9pTiD-oAAX9-xoM2&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT9yavm_yQz0YBGD-Pu4Q0s2ppIEW_V8cr5ZkwfJ3YXRRA&oe=631BE6D9)
+![</>](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/305577236_130115209764566_2538275711489385843_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=NbFI8qOlKCkAX-BAojc&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT-J7ak00j7Ns4a9A5e3Z9YToebds7RsL_gT05V71pAxnQ&oe=632FAD59)
 
 A self-motivated, self-taught and an inspired team player, who is looking for opportunities intrigued and inclined towards areas of "Frontend Development"  My professional journey has not stopped yet neither has my learning curve. Throughout my career I felt one thing; To learn more; One must be fundamentally fit to stay in the market and without proper formal education and professionalism. I always believed and focused towards research and development as I understand this is the key towards future. I have incorporated critical thinking and analytical reasoning into my professional path. I have been successful in getting expertise in
 I am experienced on these:
