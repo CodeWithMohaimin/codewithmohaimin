@@ -15,7 +15,16 @@ I am experienced on these:
 
 
 - <h1 align="center">Mohaimin Islam</h1>
-<h3 align="center">I am passionate MERN Stack Developer from Bangladesh</h3>
+<h3 align="center">A self-motivated, self-taught and an inspired team player, who is looking for opportunities intrigued and inclined towards areas of "Frontend Development" My professional journey has not stopped yet neither has my learning curve. Throughout my career I felt one thing; To learn more; One must be fundamentally fit to stay in the market and without proper formal education and professionalism. I always believed and focused towards research and development as I understand this is the key towards future. I have incorporated critical thinking and analytical reasoning into my professional path. I have been successful in getting expertise in I am experienced on these:
+
+React
+JavaScript
+Tailwind CSS
+Bootstrap
+SASS
+Next Js
+Node Js
+MongoDB</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmermohaimin&label=Profile%20views&color=0e75b6&style=flat" alt="programmermohaimin" /> </p>
 
