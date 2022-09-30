@@ -7,13 +7,13 @@
 
 <h4 align="center"> I have been successful in getting expertise in I am experienced on these</h4>
     <h3>
-    1. JavaScript
-    2. Typescript
-    3. React
-    4. Next Js
-    5. Tailwind CSS
-    6. Node Js
-    7. MongoDB
+    1. JavaScript </br>
+    2. Typescript</br>
+    3. React</br>
+    4. Next Js</br>
+    5. Tailwind CSS</br>
+    6. Node Js</br>
+    7. MongoDB</br>
     </h3>
 
 <h3 align="center">Connect with me</h3>
