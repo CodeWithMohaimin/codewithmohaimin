@@ -5,16 +5,16 @@
 <p align="center">A self-motivated, self-taught and an inspired team player, who is looking for opportunities intrigued and inclined towards areas of "Frontend Development" My professional journey has not stopped yet neither has my learning curve. Throughout my career I felt one thing; To learn more; One must be fundamentally fit to stay in the market and without proper formal education and professionalism. I always believed and focused towards research and development as I understand this is the key towards future. I have incorporated critical thinking and analytical reasoning into my professional path.</p>
 
 
-<ul align="center">
 <h4 align="center"> I have been successful in getting expertise in I am experienced on these</h4>
-    <li list-style ="none">JavaScript</li>
-    <li list-style ="none">Typescript</li>
-    <li list-style ="none">React</li>
-    <li list-style ="none">Next Js</li>
-    <li list-style ="none">Tailwind CSS</li>
-    <li list-style ="none">Node Js</li>
-    <li list-style ="none">MongoDB</li>
-</ul>
+    <h3>
+    1. JavaScript
+    2. Typescript
+    3. React
+    4. Next Js
+    5. Tailwind CSS
+    6. Node Js
+    7. MongoDB
+    </h3>
 
 <h3 align="center">Connect with me</h3>
 </br>
