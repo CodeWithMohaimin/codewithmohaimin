@@ -7,13 +7,13 @@
 
 <ul align="center">
 <h4 align="center"> I have been successful in getting expertise in I am experienced on these</h4>
-    <li align="center">JavaScript</li>
-    <li align="center">Typescript</li>
-    <li align="center">React</li>
-    <li align="center">Next Js</li>
-    <li align="center">Tailwind CSS</li>
-    <li align="center">Node Js</li>
-    <li align="center">MongoDB</li>
+    <li list-style ="none">JavaScript</li>
+    <li list-style ="none">Typescript</li>
+    <li list-style ="none">React</li>
+    <li list-style ="none">Next Js</li>
+    <li list-style ="none">Tailwind CSS</li>
+    <li list-style ="none">Node Js</li>
+    <li list-style ="none">MongoDB</li>
 </ul>
 
 <h3 align="center">Connect with me</h3>
