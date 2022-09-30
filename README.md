@@ -5,6 +5,7 @@
 
  <p align="center">React</p>
  <p align="center">JavaScript</p>
+  <p align="center">Typescript</p>
  <p align="center">Tailwind CSS</p>
  <p align="center">Bootstrap</p>
  <p align="center">SASS</p>
