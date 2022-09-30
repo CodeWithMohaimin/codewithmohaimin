@@ -1,5 +1,6 @@
 <h1 align="center">Mohaimin Islam</h1>
-![Alt text](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/305577236_130115209764566_2538275711489385843_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=KX3Sqr3m46QAX8kqPpz&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT_UgMyY5_awx8i6tIbc6LHEflXBuZdF6c2oT8jEDTfjpg&oe=633B8AD9 "Mohaimin")
+
+
 
 <h3 align="center">A self-motivated, self-taught and an inspired team player, who is looking for opportunities intrigued and inclined towards areas of "Frontend Development" My professional journey has not stopped yet neither has my learning curve. Throughout my career I felt one thing; To learn more; One must be fundamentally fit to stay in the market and without proper formal education and professionalism. I always believed and focused towards research and development as I understand this is the key towards future. I have incorporated critical thinking and analytical reasoning into my professional path. I have been successful in getting expertise in I am experienced on these:</h3>
 
