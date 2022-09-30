@@ -5,7 +5,7 @@
 <p align="center">A self-motivated, self-taught and an inspired team player, who is looking for opportunities intrigued and inclined towards areas of "Frontend Development" My professional journey has not stopped yet neither has my learning curve. Throughout my career I felt one thing; To learn more; One must be fundamentally fit to stay in the market and without proper formal education and professionalism. I always believed and focused towards research and development as I understand this is the key towards future. I have incorporated critical thinking and analytical reasoning into my professional path.</p>
 
 
-<h4 align="center"> I have been successful in getting expertise in I am experienced on these</h4>
+<h6 align="center"> I have been successful in getting expertise in I am experienced on these</h6>
     <h3 align="center">
         JavaScript </br>
        Typescript</br>
@@ -16,7 +16,7 @@
         MongoDB</br>
     </h3>
 
-<h3 align="center">Connect with me</h3>
+<h2 align="center">Connect with me</h2>
 </br>
 <p align="center">
 <a href="https://dev.to/programmermohaimin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="programmermohaimin" height="30" width="40" /></a>
