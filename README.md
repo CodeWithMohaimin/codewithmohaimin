@@ -32,7 +32,5 @@
 <h1 align="center">📊 Mohaimin's GitHub Stats 📊 </h1>
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=programmermohaimin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>![](https://github-readme-stats.vercel.app/api?username=programmermohaimin&theme=radical&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=programmermohaimin&theme=radical&hide_border=false) [![](https://visitcount.itsvg.in/api?id=programmermohaimin&icon=2&color=1)](https://visitcount.itsvg.in)
-
+https://github-readme-streak-stats.herokuapp.com/?user=programmermohaimin
 </div>
