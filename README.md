@@ -32,5 +32,7 @@
 <h1 align="center">📊 Mohaimin's GitHub Stats 📊 </h1>
 
 <div align="center">
-https://github-readme-streak-stats.herokuapp.com/?user=programmermohaimin
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmermohaimin&show_icons=true&locale=en&layout=compact" alt="programmermohaimin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmermohaimin&show_icons=true&locale=en" alt="programmermohaimin" /></p>
 </div>
