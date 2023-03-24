@@ -33,14 +33,12 @@
 
 <div align="center">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/programmermohaimin)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codewithmohaimin)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmermohaimin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmohaimin)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=programmermohaimin&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmohaimin&show_icons=true&count_private=true)
 
-![GitHub metrics](https://metrics.lecoq.io/programmermohaimin)
-
-![Profile views](https://gpvc.arturio.dev/programmermohaimin)
+![GitHub metrics](https://metrics.lecoq.io/codewithmohaimin)
 
 </div>
