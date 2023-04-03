@@ -33,12 +33,13 @@
 
 <div align="center">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codewithmohaimin)
+![](https://github-readme-stats.vercel.app/api?username=codewithmohaimin&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codewithmohaimin&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmohaimin&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmohaimin)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![](https://visitcount.itsvg.in/api?id=codewithmohaimin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmohaimin&show_icons=true&count_private=true)
-
-![GitHub metrics](https://metrics.lecoq.io/codewithmohaimin)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
