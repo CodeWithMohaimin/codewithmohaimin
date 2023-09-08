@@ -25,14 +25,14 @@ You can still talk to me about things I am still learning,
 - Languages like **PHP, Python, Golang**
 - **Data structures and algorithms**
 
-### 🧠 Top Skilled
+## 🧠 Top Skilled
 
-- ✔ JavaScript
-- ✔ Typescript
-- ✔ ReactJs
-- ✔ NextJs
-- ✔ GraphQL
-- ✔ Redux
+- JavaScript
+- Typescript
+- ReactJs
+- NextJs
+- GraphQL
+- Redux
 
 ## 🔥 GitHub Stats
 
