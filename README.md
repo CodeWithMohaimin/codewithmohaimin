@@ -2,10 +2,10 @@
 
 <div>
 
-👋 Hi, I’m Mohaimin
-👀 I’m interested in JavaScript, Typescript React, Next.js, GraphQL, Strapi, Webflow, Wordpress etc.
-🌱 I’m currently learning Frontend Technologies.
-📫 How to reach me CodeWithMohaimin@gmail.com
+- 👋 Hi, I’m Mohaimin
+- 👀 I’m interested in JavaScript, Typescript React, Next.js, GraphQL, Strapi, Webflow, Wordpress etc.
+- 🌱 I’m currently learning Frontend Technologies.
+- 📫 How to reach me CodeWithMohaimin@gmail.com
 
 </div>
 
