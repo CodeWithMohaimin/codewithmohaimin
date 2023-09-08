@@ -4,8 +4,8 @@
 
 ## 🔥 Technologies
 
-✔ 🧠 I’m currently learning **Frontend Technologies**.
-✔ I’m currently Working on this project : [Rey-Express](https://rey-xpress.com/)
+- ✔ 🧠 I’m currently learning **Frontend Technologies**.
+- ✔ I’m currently Working on this project : [Rey-Express](https://rey-xpress.com/)
 
 You can talk to me about,
 
