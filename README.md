@@ -4,7 +4,7 @@
 
 ## 🔥 Technologies
 
-- ✔ 🧠 I’m currently learning **Frontend Technologies**.
+- ✔ I’m currently learning **Frontend Technologies**.
 - ✔ I’m currently Working on this project : [Rey-Express](https://rey-xpress.com/)
 
 You can talk to me about,
@@ -16,7 +16,15 @@ You can talk to me about,
 - Web automation using **Puppeteer**
 - Deployment using **Docker**
 
-### 🔰 Top Skilled
+You can still talk to me about things I am still learning,
+
+- Frontend stuff like **Vue, Angular**
+- Backend stuff like **Laravel**
+- CMS stuff like **Wordpress, Strapi, Webflow, Wix**
+- Languages like **PHP, Python, Golang**
+- **Data structures and algorithms**
+
+### 🧠 Top Skilled
 
 - JavaScript
 - Typescript
@@ -25,7 +33,7 @@ You can talk to me about,
 - GraphQL
 - Redux
 
-## 🔰 GitHub Stats
+## 🔥 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmohaimin&show_icons=true)
 
