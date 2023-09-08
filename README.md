@@ -1,17 +1,19 @@
-# Front-end Enthusiast
+# Web Development Enthusiast
 
 <div>
 
-- 👩‍💻 Web Developer
+- 👩‍💻 Front-end Web Developer
 - 🌍 Location: Jessore, Bangladesh
 - 🗣 Language : English, Bengali, Hindi
 - 📧 Email: **CodeWithMohaimin@gmail.com**
 - 🌱 I’m currently learning **Frontend Technologies**.
-- 👀 I’m interested in **JavaScript**, **Typescript**, **React.js**, **Redux**, **Next.js**, **GraphQL**, **Strapi**, **Webflow**, **Wordpress** etc.
+- 🌱 I’m currently Working on this project : [Rey-Express](https://rey-xpress.com/)
+- 🌱 I’m Frontend developer at : **MicroDreamIT**
+- 👀 I’m interested in : **JavaScript**, **Typescript**, **React.js**, **Redux**, **Next.js**, **GraphQL**, **Strapi**, **Webflow**, **Wordpress** etc.
 
 </div>
 
-<div style="margin:30px;">
+<div>
 <a href="https://youtube.com/c/programmermohaimin">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white">
 </a>
