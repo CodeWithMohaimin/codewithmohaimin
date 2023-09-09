@@ -5,7 +5,6 @@
 I'm Mohaimin, A 20 year old full-stack focused frontend web developer. I have over 🔥 100 projects on Github, 🔥 Manage many local clients and also 🔥 working with Collaboration. I also have a 🔥 YouTube channel, [CodeWithMohaimin](https://youtube.com/@CodeWithMohaimin), where I share my knowledge and experiences with others in the 🔥 tech community.
 
 </br>
-</br>
 I'm always eager to stay up to date with the latest technologies and industry trends. I am confident in my ability to tackle any web development project and I am eager to bring my skills to new and challenging opportunities.
 
 ## 🔥 Technologies
