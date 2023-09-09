@@ -12,7 +12,7 @@ I'm always eager to stay up to date with the latest technologies and industry tr
 - ✔ I’m currently learning **Frontend Technologies**.
 - ✔ I’m currently Working on this project : [Rey-Express](https://rey-xpress.com/)
 
-You can talk to me about,
+### You can talk to me about,
 
 - Front-end development using **HTML, CSS, SCSS,Tailwind CSS, JavaScript, ReactJS, NextJs**
 - Backend development using **NodeJS, Express**
@@ -20,7 +20,7 @@ You can talk to me about,
 - Web automation using **Puppeteer**
 - Deployment using **Docker**
 
-You can also talk to me, about those things that I'm' still learning,
+### You can also talk to me, about those things that I'm' still learning,
 
 - Frontend stuff like **Vue, Angular**
 - Backend like **Laravel**
@@ -31,6 +31,7 @@ You can also talk to me, about those things that I'm' still learning,
 ## 🧠 My Top Skilled
 
 ```text
+
 - JavaScript
 - Typescript
 - ReactJs
