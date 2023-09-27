@@ -10,7 +10,7 @@ I'm always eager to stay up to date with the latest technologies and industry tr
 ## 🛠 Technologies
 
 - ✔ I’m currently learning **Frontend Technologies**.
-- ✔ I’m currently Working on this project : [Rey-Express](https://rey-xpress.com/)
+- ✔ I’m currently Working on this project : [Rey-Express](https://github.com/CodeWithMohaimin/Rey)
 
 ### You can talk to me about,
 
