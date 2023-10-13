@@ -1,8 +1,8 @@
 ## Web Development Enthusiast
 
-### I'm Mohaimin😎 Front-end Web Developer ✌ based on Jessore, Bangladesh 🥳
+### Hi there, My name is Mohaimin 😎 And I'm a Front-end Web Developer ✌ based on Jessore, Bangladesh 🥳
 
-I'm Mohaimin, A 20 year old full-stack focused frontend web developer. I have over 👩‍💻 100 projects on Github, 🔥 Manage many local clients and also 🤼 working with Collaboration. I also have a 🎬 YouTube channel, [CodeWithMohaimin](https://youtube.com/@CodeWithMohaimin), where I share my knowledge and experiences with others in the 👨‍👨‍👦‍👦 tech community.
+I'm a full-stack focused frontend web developer. I have over 👩‍💻 100 projects on Github, 🔥 Manage many local clients and also 🤼 working with Collaboration. I also have a 🎬 YouTube channel, [CodeWithMohaimin](https://youtube.com/@CodeWithMohaimin), where I share my knowledge and experiences with others in the 👨‍👨‍👦‍👦 tech community.
 </br>
 
 I'm always eager to stay up to date with the latest technologies and industry trends. I am confident in my ability to tackle any web development project and I am eager to bring my skills to new and challenging opportunities.
@@ -14,18 +14,18 @@ I'm always eager to stay up to date with the latest technologies and industry tr
 
 ### You can talk to me about,
 
-- Front-end development using **HTML, CSS, SCSS,Tailwind CSS, JavaScript, ReactJS, NextJs**
+- Front-end development stuff like
+  - Basics: **HTML, CSS, SCSS,Tailwind CSS**
+  - Front-end development using **JavaScript, Typescript, ReactJS, NextJs, GraphQL**
 - Backend development using **NodeJS, Express**
 - Database using **Prisma, MongoDB, PostgreSQL**
-- Web automation using **Puppeteer**
-- Deployment using **Docker**
+  <!-- - Web automation using **Puppeteer** -->
+  <!-- - Deployment using **Docker** -->
 
 ### You can also talk to me, about those things that I'm' still learning,
 
-- Frontend stuff like **Vue, Angular**
-- Backend like **Laravel**
 - CMS stuff like **Strapi, Wordpress, Webflow, Wix**
-- Languages stuff like **PHP, Python, Golang**
+- Languages stuff like **Python, Golang**
 - And **Data structures and algorithms**
 
 ## 🧠 My Top Skilled
@@ -37,7 +37,6 @@ I'm always eager to stay up to date with the latest technologies and industry tr
 - ReactJs
 - NextJs
 - GraphQL
-- Redux
 
 ```
 
