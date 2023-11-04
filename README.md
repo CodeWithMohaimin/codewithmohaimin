@@ -15,15 +15,17 @@ I'm always eager to stay up to date with the latest technologies and industry tr
 ### You can talk to me about,
 
 - Front-end development stuff like
+
   - Basics: **HTML, CSS, SCSS,Tailwind CSS**
-  - Front-end development using **JavaScript, Typescript, ReactJS, NextJs, GraphQL**
-- Backend development using **NodeJS, Express**
-- Database using **Prisma, MongoDB, PostgreSQL**
+  - Development using **JavaScript, Typescript, ReactJS, NextJs, GraphQL**
+
   <!-- - Web automation using **Puppeteer** -->
   <!-- - Deployment using **Docker** -->
 
 ### You can also talk to me, about those things that I'm' still learning,
 
+- Backend development using **NodeJS, Express**
+- Database using **Prisma, MongoDB, PostgreSQL**
 - CMS stuff like **Strapi, Wordpress, Webflow, Wix**
 - Languages stuff like **Python, Golang**
 - And **Data structures and algorithms**
