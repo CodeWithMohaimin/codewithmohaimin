@@ -2,7 +2,9 @@
 
 ### Hi there, Welcome to Mohaimin's profile 😎 I'm a Front-end Web Developer specialist ✌ based on Jessore, Bangladesh 🥳
 
-I'm a full-stack focused frontend web developer. I have over 👩‍💻 100 projects on Github, 🔥 Manage many local clients and also 🤼 working with Collaboration. I also have a 🎬 YouTube channel, [CodeWithMohaimin](https://youtube.com/@CodeWithMohaimin), where I share my knowledge and experiences with others in the 👨‍👨‍👦‍👦 tech community.
+Many domestic and foreign companies have improved their business through me to build their perfect website. And it makes me very happy to see this. My unwavering passion and deep-seated love for website development drive my career, making it more than just a profession but a place of endless enthusiasm and dedication.
+
+I also have a 🎬 YouTube channel, [CodeWithMohaimin](https://youtube.com/@CodeWithMohaimin), where I share my knowledge and experiences with others in the 👨‍👨‍👦‍👦 tech community.
 </br>
 
 I'm always eager to stay up to date with the latest technologies and industry trends. I am confident in my ability to tackle any web development project and I am eager to bring my skills to new and challenging opportunities.
@@ -10,7 +12,7 @@ I'm always eager to stay up to date with the latest technologies and industry tr
 ## 🛠 Technologies
 
 - ✔ I’m currently learning **Frontend Technologies**.
-- ✔ I’m currently Working on this project : [Rey-Express](https://github.com/CodeWithMohaimin/Rey)
+- ✔ My last Work (part) : [Rey-Express](https://github.com/CodeWithMohaimin/Rey)
 
 ### You can talk to me about,
 
