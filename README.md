@@ -1,6 +1,6 @@
-## Web Development Enthusiast
+## Where Enthusiasm Meets Web Development Mastery
 
-### Hi there, My name is Mohaimin 😎 And I'm a Front-end Web Developer ✌ based on Jessore, Bangladesh 🥳
+### Hi there, Welcome to Mohaimin's profile 😎 I'm a Front-end Web Developer specialist ✌ based on Jessore, Bangladesh 🥳
 
 I'm a full-stack focused frontend web developer. I have over 👩‍💻 100 projects on Github, 🔥 Manage many local clients and also 🤼 working with Collaboration. I also have a 🎬 YouTube channel, [CodeWithMohaimin](https://youtube.com/@CodeWithMohaimin), where I share my knowledge and experiences with others in the 👨‍👨‍👦‍👦 tech community.
 </br>
@@ -22,7 +22,7 @@ I'm always eager to stay up to date with the latest technologies and industry tr
   <!-- - Web automation using **Puppeteer** -->
   <!-- - Deployment using **Docker** -->
 
-### You can also talk to me, about those things that I'm' still learning,
+### You can also talk to me, about those things that I'm still learning...
 
 - Backend development using **NodeJS, Express**
 - Database using **Prisma, MongoDB, PostgreSQL**
@@ -34,10 +34,8 @@ I'm always eager to stay up to date with the latest technologies and industry tr
 
 ```text
 
-- JavaScript
-- Typescript
-- ReactJs
-- NextJs
+- JavaScript / Typescript
+- ReactJs / NextJs
 - GraphQL
 
 ```
