@@ -12,7 +12,7 @@ I'm always eager to stay up to date with the latest technologies and industry tr
 ## 🛠 Technologies
 
 - ✔ I’m currently learning **Frontend Technologies**.
-- ✔ My last Work (part) : [TLD Studio](https://tldstudio.xyz/)
+- ✔ My last Work : [TLD Studio](https://tldstudio.xyz/)
 
 ### You can talk to me about,
 
