@@ -1,46 +1,28 @@
-# Where Enthusiasm Meets Web Development Mastery
+# Your Frontend Partner
 
-### Hi there, Welcome to Mohaimin's profile 😎 I'm a Front-end Web Developer specialist ✌ based on Jessore, Bangladesh 🥳
+![Cover](./lc.png)
 
-Many domestic and foreign companies have improved their business through me to build their perfect website. And it makes me very happy to see this. My unwavering passion and deep-seated love for website development drive my career, making it more than just a profession but a place of endless enthusiasm and dedication.
+## Website Developer | Partnership With Design Agencies & individuals for Development Help | All-in-one Website Development Solutions.
 
-I also have a 🎬 YouTube channel, [CodeWithMohaimin](https://youtube.com/@CodeWithMohaimin), where I share my knowledge and experiences with others in the 👨‍👨‍👦‍👦 tech community.
-</br>
+As a front-end developer, I turn design concepts into fully functional websites with clean, responsive code. Whether it’s a custom build or integrating advanced features, my expertise ensures that every site is fast, visually engaging, and optimized for performance.
 
-I'm always eager to stay up to date with the latest technologies and industry trends. I am confident in my ability to tackle any web development project. And, I am eager to bring my skills to new and challenging opportunities.
+## 🛠 Technologies I know
 
-## 🛠 Technologies
+- HTML & CSS
+- JavaScript
+- React Js
+- Tailwind CSS
+- Next Js
+- Typescript
+- Web Animation
+- Frontend Architecture
+- API integration: REST/GraphQL
 
-- ✔ I’m currently learning **Frontend Technologies**.
-- ✔ My last Work : [TLD Studio](https://tldstudio.xyz/)
+## Social Accounts
 
-### You can talk to me about,
-
-- Front-end development stuff like
-
-  - Basics: **HTML, CSS, SCSS,Tailwind CSS**
-  - Development using **JavaScript, Typescript, ReactJS, NextJs, GraphQL**
-
-  <!-- - Web automation using **Puppeteer** -->
-  <!-- - Deployment using **Docker** -->
-
-### You can also talk to me, about those things that I'm still learning...
-
-- Backend development using **NodeJS, Express**
-- Database using **Prisma, MongoDB, PostgreSQL**
-- CMS stuff like **Strapi, Wordpress, Webflow, Wix**
-- Languages stuff like **Python, Golang**
-- And **Data structures and algorithms**
-
-## 🧠 My Top Skilled
-
-```text
-
-- JavaScript / Typescript
-- ReactJs / NextJs
-- GraphQL
-
-```
+- [YouTube](https://www.youtube.com/@CodeWithMohaimin)
+- [LinkedIn](https://www.linkedin.com/in/mohai/)
+- [Facebook](https://www.facebook.com/CodeWithMohaimin/)
 
 ## 🔥 GitHub Stats
 
